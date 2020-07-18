@@ -32,8 +32,4 @@ class Manager
         all_mgr_ages.sum.to_f / all_mgr_ages.count
     end
 
-    def assign_new_manager
-        
-    end
-
 end
